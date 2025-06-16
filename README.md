@@ -24,6 +24,7 @@ HashBreaker est un projet éducatif développé en Python qui simule une attaque
 - `hash_createur.py` – génère un hash MD5 ou SHA-256 à partir d’un mot  
 - `hash2.py` – version alternative ou test complémentaire  
 - `tkinter2.py` – interface utilisateur graphique (facultative)
+- `Wordlist.txt` – fichier contenant la liste de mots pour l'attaque par dictionnaire
 
 ## ⚠️ Avertissement
 > Ce projet est uniquement à but éducatif. Il ne doit en aucun cas être utilisé pour des activités malveillantes. Apprenez à vous défendre en comprenant les techniques d’attaque.
